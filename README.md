@@ -12,8 +12,8 @@ These are some algorithms we learned in our numerical linear algebra course at D
 - [QR-HouseHolder](https://github.com/alirezaafzalaghaei/numerical-linear-algebra/blob/master/HouseHolder.py "HouseHolder.py")
 
 **Eigenvalue**
-- [Eigenvalue](https://github.com/alirezaafzalaghaei/numerical-linear-algebra/blob/master/Eigenvalue.py "Eigenvalue.py")
-- [QR-Eigenvalue](https://github.com/alirezaafzalaghaei/numerical-linear-algebra/blob/master/Eigenvalue2.py "Eigenvalue2")
+- [Eigenvalue - QR](https://github.com/alirezaafzalaghaei/numerical-linear-algebra/blob/master/Eigenvalue.py "Eigenvalue.py")
+- [Eigenvalue - Power method](https://github.com/alirezaafzalaghaei/numerical-linear-algebra/blob/master/Eigenvalue2.py "Eigenvalue2")
 
 
 **prerequisites**
